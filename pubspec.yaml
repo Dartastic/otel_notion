@@ -1,6 +1,6 @@
 name: otel_notion
 description: OpenTelemetry bridge for Notion API (databases, pages, blocks).
-version: 0.1.0-beta.2-wip
+version: 0.1.0-beta.2
 repository: https://github.com/dartastic/otel_notion
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
