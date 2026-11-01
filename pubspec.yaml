@@ -2,7 +2,7 @@ name: otel_notion
 description: >-
   OpenTelemetry instrumentation for notion by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use notion.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_notion
 homepage: https://dartastic.io
 
